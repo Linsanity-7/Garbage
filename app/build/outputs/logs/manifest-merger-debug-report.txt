@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:3:11-60
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+application
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\Administrator\.android\build-cache\00a00a081cf329ae9834009d1b361dacb4af611a\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:8:13-45
+	android:supportsRtl
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:10:13-39
+	android:roundIcon
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:9:13-58
+	android:allowBackup
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:6:13-39
+	android:icon
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:7:13-47
+	android:theme
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:11:13-44
+activity#com.example.administrator.myapplication.MainActivity
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Administrator\.android\build-cache\bd113f05912e2c6e3f5d0bc4896aaa777dd345d8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\Administrator\.android\build-cache\825cbde0707646d99a41259bbab92b729d465719\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Administrator\.android\build-cache\798bd9f969489a0a2045b94fa23c0795619586e9\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Administrator\.android\build-cache\3cdd39485ab3c7fa3261e27780c8a321d269aa48\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Administrator\.android\build-cache\e7cbac5c4decf1f004b56b5a7fac215b0380df65\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\Administrator\.android\build-cache\224e3b94412582ed5890c0909a1289b06f2c1ae6\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\Administrator\.android\build-cache\a9e98da131a1dab57d75b92771f5f5a766b64a58\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\Administrator\.android\build-cache\57d412be8830ac692e942756900fe82c83a1686d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\Administrator\.android\build-cache\5817d5049e15533fcaec1a930e7688e585fff2f8\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\Administrator\.android\build-cache\3a2feefff3106637a94822856ece55341783d3ab\output\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Administrator\.android\build-cache\09e476250aee2ab7d46ad42e47132d9af55be28b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta6] C:\Users\Administrator\.android\build-cache\00a00a081cf329ae9834009d1b361dacb4af611a\output\AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
+		INJECTED from D:\java\MyAndroidProject\app\src\main\AndroidManifest.xml
